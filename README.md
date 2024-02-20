@@ -43,6 +43,8 @@ Developing basic, fundamental, and practical statistical toolkits comprises vari
 | Dec 2023 | [PLQ Composite Decomposition](./md/plq.md)                          |        | Started | [Ben Dai](https://www.bendai.org/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | RA@CUHK  |
 |          |                                                      |        |         |                                    |           |                                             |          |
 
+**Note (We Support Your Proposal).** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal in the discussion section. PIs will assess its feasibility and provide support accordingly.
+
 ## Acknowledge
 
 **stoat** is initiated by several junior statistics PIs to contribute to the development of basic, fundamental and practical statistical toolkits. **stoat** is initially inspired by [Google Summer of Code](https://github.com/rstats-gsoc) initiative, and provides a more flexible timeline, research-oriented projects, and offers paid university-based academic job positions.
@@ -52,6 +54,7 @@ Developing basic, fundamental, and practical statistical toolkits comprises vari
 <p float="left">
   <a href="https://www.ugc.edu.hk/eng/ugc/index.html"><img src="./figs/ugc.png" align="left" height="120" /></a>
   <a href="https://www.sta.cuhk.edu.hk/"><img src="./figs/cuhk.png" align="left" height="120" /></a>
+  <a href="https://www.cityu.edu.hk/"><img src="./figs/cityu.png" align="left" height="120" /></a>
 </p>
 
 
