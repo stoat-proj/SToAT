@@ -2,10 +2,10 @@
 
 The **stoat** project is a comprehensive initiative designed to enhance the development of essential, foundational, and practical statistical toolkits. Its overarching aim is to widen the scope of operability and practicality intrinsic to statistical concepts and methodologies. The principles of the Stoat project can be underscored as follows:
 
-- Open. **stoat** supports open-source, and all toolkits will be published in Github.
-- Decentralization. **stoat** does not claim credits for every project or toolkit. Rather, all credits associated with a particular project are duly accorded to the respective developers and contributors.
-- Cooperation. **stoat** involves active cooperation between developers/contributors and mentors. Most projects are initiated by mentors who propose preliminary ideas and aims. The project then is progressively proceeded through collaboration between contributors and mentors.
-- Paid-position. **stoat** offers paid short-term academic positions, such as research assistant (RA). In short, each contributor selected for a **stoat** project will get paid academic position to work on an Python/R package for 12 - 24 weeks.
+- **Open**. stoat supports open-source, and all toolkits will be published in Github.
+- **Decentralization**. stoat does not claim credits for every project or toolkit. Rather, all credits associated with a particular project are duly accorded to the respective developers and contributors.
+- **Cooperation**. stoat involves active cooperation between developers/contributors and mentors. Most projects are initiated by mentors who propose preliminary ideas and aims. The project then is progressively proceeded through collaboration between contributors and mentors.
+- **Paid-position**. stoat offers paid short-term academic positions, such as research assistant (RA). In short, each contributor selected for a **stoat** project will get paid academic position to work on an Python/R package for 12 - 24 weeks.
 
 ## Workflow
 
@@ -37,13 +37,13 @@ Developing basic, fundamental, and practical statistical toolkits comprises vari
 
 ## Table of Proposed Projects
 
-| Date     | Proposal                                             | Github | Status  | Mentors                            | languages | Contributors                                | Position |
-| -------- | ---------------------------------------------------- | ------ | ------- | ---------------------------------- | --------- | ------------------------------------------- | -------- |
-| Feb 2024 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | SH@CUHK  |
-| Dec 2023 | [PLQ Composite Decomposition](./md/plq.md)                          |        | Started | [Ben Dai](https://www.bendai.org/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | RA@CUHK  |
-|          |                                                      |        |         |                                    |           |                                             |          |
+| Date     | Proposal                                                     | Github | Status  | Mentors                            | languages | Contributors                                | Position |
+| -------- | ------------------------------------------------------------ | ------ | ------- | ---------------------------------- | --------- | ------------------------------------------- | -------- |
+| Feb 2024 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | @CUHK    |
+| Dec 2023 | [PLQ Composite Decomposition](./md/plq.md)                   |        | Started | [Ben Dai](https://www.bendai.org/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | @CUHK    |
+|          |                                                              |        |         |                                    |           |                                             |          |
 
-**Note (We Support Your Proposal).** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal in the discussion section. PIs will assess its feasibility and provide support accordingly.
+**We Support Your Proposal.** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal in the [discussion](https://github.com/stoat-proj/SToAT/discussions/new?category=project-proposal) section under project proposal category. PIs will assess its feasibility and provide support accordingly.
 
 ## Acknowledge
 
