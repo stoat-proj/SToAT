@@ -11,8 +11,8 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 
 | Date     | Proposal                                                     | Github | Status  | Mentors                            | languages | Contributors                                | Position |
 | -------- | ------------------------------------------------------------ | ------ | ------- | ---------------------------------- | --------- | ------------------------------------------- | -------- |
-| Feb 2024 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | @CUHK    |
-| Dec 2023 | [PLQ Composite Decomposition](./md/plq.md)                   |        | Started | [Ben Dai](https://www.bendai.org/) and [Yixuan Qiu](https://statr.me/about/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | @CUHK    |
+| 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | @CUHK    |
+| 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |        | Started | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | @CUHK    |
 |          |                                                              |        |         |                                    |           |                                             |          |
 
 **We Support Your Proposal.** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal in the [discussion](https://github.com/stoat-proj/SToAT/discussions/new?category=project-proposal) section under project proposal category. PIs will assess its feasibility and provide support accordingly.
@@ -29,7 +29,7 @@ Student who wants to participate in SToAT project should:
 
 **stoat** is initiated by several junior statistics PIs to contribute to the development of basic, fundamental and practical statistical toolkits. **stoat** is initially inspired by [Google Summer of Code](https://github.com/rstats-gsoc) initiative, and provides more flexible timeline, research-oriented projects, and offers paid university-based academic job positions.
 
-**Support SToAT.** Stoat enthusiastically welcomes more PIs to join, providing opportunities for students interested in statistical software development, as well as contributing to the development and promotion of open-source statistical toolkits. The role of the PI is pivotal in overseeing the project, providing vision, direction, and coordinating the contributors' efforts. Please check [SToAT-wiki: Become a co-PI of SToAT](https://github.com/stoat-proj/SToAT/wiki/Become-a-PI-of-SToAT) for more information.
+**Support SToAT.** Stoat enthusiastically welcomes more co-PIs to join, providing opportunities for students interested in statistical software development, as well as contributing to the development and promotion of open-source statistical toolkits. The role of the PI is pivotal in overseeing the project, providing vision, direction, and coordinating the contributors' efforts. Please check [SToAT-wiki: Become a co-PI of SToAT](https://github.com/stoat-proj/SToAT/wiki/Become-a-PI-of-SToAT) for more information.
 
 ## Sponsors
 
