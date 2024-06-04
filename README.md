@@ -16,7 +16,7 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | @CUHK    |
 |          |                                                              |        |         |                                    |           |                                             |          |
 
-**We Support Your Proposal.** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal in the [discussion](https://github.com/stoat-proj/SToAT/discussions/new?category=project-proposal) section under project proposal category. PIs will assess its feasibility and provide support accordingly.
+**We Support Your Proposal.** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal (see [Proposal template](https://github.com/stoat-proj/SToAT/wiki/Proposal-template)) in the [discussion](https://github.com/stoat-proj/SToAT/discussions/new?category=project-proposal) section under project proposal category. PIs will assess its feasibility and provide support accordingly.
 
 ## How to Participate
 
