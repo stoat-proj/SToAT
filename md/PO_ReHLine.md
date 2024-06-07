@@ -50,7 +50,7 @@ $$
 4. Testing, API, and documentation.
 5. Benchmarking with other existing algorithms, summarize the strength and weakness of PO-ReHLine.
 
-- Mentors: [Ben Dai](https://www.bendai.org/) and [Yixuan Qiu](https://statr.me/about/)
+- Mentors: [Ben Dai](https://www.bendai.org/) and [Lizhang Miao]()
 - Time Period: **4 Months**
 - Languages: C++ and Python
 - Position: RA@CUHK-STAT
