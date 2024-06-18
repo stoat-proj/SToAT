@@ -12,6 +12,7 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 | Date     | Proposal                                                     | Github | Status  | Mentors                            | languages | Contributors                                | Position |
 | -------- | ------------------------------------------------------------ | ------ | ------- | ---------------------------------- | --------- | ------------------------------------------- | -------- |
 | 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | @CUHK    |
+| 06/24 | [Python Interface of MatchIt](./md/MatchIt_Py.md) |        | Started  |        |  Python    | [Wenyi WU](https://github.com/WenyiWU0111)| @CUHK    |
 | 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) |        | Started  | [Ben Dai](https://www.bendai.org/)        |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       | @CUHK    |
 | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | @CUHK    |
 |          |                                                              |        |         |                                    |           |                                             |          |
