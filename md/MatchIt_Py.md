@@ -55,7 +55,7 @@ We choose MatchIt instead of other Matching packages in R because of the followi
 ## Timeline
 
 - Get familiar with the structures and functions of MatchIt, and design its structure in Python. [~ 0.5 month]
-- Implement the Python Interface with [Pybind11] (https://github.com/pybind/pybind11), an open-source Python package that exposes C++ types in Python. [~ 1 month]
+- Implement the Python Interface with [Pybind11](https://github.com/pybind/pybind11), an open-source Python package that exposes C++ types in Python. [~ 1 month]
 - Conduct tests and make example notebooks. [~ 0.5 month]
 - Write documentation. [~ 0.5 month]
 
