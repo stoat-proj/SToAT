@@ -14,10 +14,19 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 | 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | @CUHK    |
 | 06/24 | [Python Interface of MatchIt](./md/MatchIt_Py.md) |        | Started  |        |  Python    | [Wenyi WU](https://github.com/WenyiWU0111)| @CUHK    |
 | 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) |        | Started  | [Ben Dai](https://www.bendai.org/)        |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       | @CUHK    |
-| 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python, R | [Tingxian Gao](https://github.com/keepwith) | @CUHK    |
 |          |                                                              |        |         |                                    |           |                                             |          |
 
+<!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
+
+
 **We Support Your Proposal.** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal (see [Proposal template](https://github.com/stoat-proj/SToAT/wiki/Proposal-template)) in the [discussion](https://github.com/stoat-proj/SToAT/discussions/new?category=project-proposal) section under project proposal category. PIs will assess its feasibility and provide support accordingly.
+
+## Table of Developed Projects
+
+| Date     | Proposal                                                     | Outcome | Mentors                            | languages | Contributors                                |
+| -------- | ------------------------------------------------------------ | ------- | ---------------------------------- | --------- | ------------------------------------------- |
+| 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [Github](https://github.com/keepwith/PLQComposite) | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) |
+|          |                                                              |        |         |                                    |           |                                             |          |
 
 ## How to Participate
 
