@@ -9,11 +9,11 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 
 ## Table of Proposed Projects
 
-| Date     | Proposal                                                     | Github | Status  | Mentors                            | languages | Contributors                                | Position |
-| -------- | ------------------------------------------------------------ | ------ | ------- | ---------------------------------- | --------- | ------------------------------------------- | -------- |
-| 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring  | [Ben Dai](https://www.bendai.org/) | Python    |                                             | @CUHK    |
-| 06/24 | [Python Interface of MatchIt](./md/MatchIt_Py.md) |        | Started  |        |  Python    | [Wenyi WU](https://github.com/WenyiWU0111)| @CUHK    |
-|          |                                                              |        |         |                                    |           |                                             |          |
+| Date     | Proposal                                                     | Github | Status  | languages | Contributors                                | Position |
+| -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- | -------- |
+| 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             | @CUHK    |
+| 06/24 | [Python Interface of MatchIt](./md/MatchIt_Py.md) |        | Started  |  Python    | [Wenyi WU](https://github.com/WenyiWU0111)| @CUHK    |
+|          |                                                              |       |                                    |           |                                             |          |
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
 
@@ -22,10 +22,10 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 
 ## Table of Developed Projects
 
-| Date     | Proposal                                                     | Outcome | Mentors                            | languages | Contributors                                |
-| -------- | ------------------------------------------------------------ | ------- | ---------------------------------- | --------- | ------------------------------------------- |
-| 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [Github](https://github.com/keepwith/PLQComposite) | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) |
-| 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) (Preliminary) |   [Github](https://github.com/softmin/ReHLine-PO)   | [Ben Dai](https://www.bendai.org/)        |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       | @CUHK    |
+| Date     | Proposal                                                     | Outcome | languages | Contributors                                |
+| -------- | ------------------------------------------------------------ | ------- | --------- | ------------------------------------------- |
+| 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [Github](https://github.com/keepwith/PLQComposite) | Python | [Tingxian Gao](https://github.com/keepwith) |
+| 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) (pre) |   [Github](https://github.com/softmin/ReHLine-PO)   |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       | @CUHK    |
 |          |                                                              |        |         |                                    |           |                                             |          |
 
 ## How to Participate
@@ -42,13 +42,13 @@ Student who wants to participate in SToAT project should:
 
 **Support SToAT.** Stoat enthusiastically welcomes more co-PIs to join, providing opportunities for students interested in statistical software development, as well as contributing to the development and promotion of open-source statistical toolkits. The role of the PI is pivotal in overseeing the project, providing vision, direction, and coordinating the contributors' efforts. Please check [SToAT-wiki: Become a co-PI of SToAT](https://github.com/stoat-proj/SToAT/wiki/Become-a-PI-of-SToAT) for more information.
 
-## Sponsors
+<!-- ## Sponsors -->
 
-<p float="left">
-  <a href="https://www.ugc.edu.hk/eng/ugc/index.html"><img src="./figs/ugc.png" align="left" height="120" /></a>
-  <a href="https://www.sta.cuhk.edu.hk/"><img src="./figs/cuhk.png" align="left" height="120" /></a>
+<!-- <p float="left"> -->
+  <!-- <a href="https://www.ugc.edu.hk/eng/ugc/index.html"><img src="./figs/ugc.png" align="left" height="120" /></a> -->
+  <!-- <a href="https://www.sta.cuhk.edu.hk/"><img src="./figs/cuhk.png" align="left" height="120" /></a> -->
   <!-- <a href="https://www.cityu.edu.hk/"><img src="./figs/cityu.png" align="left" height="120" /></a> -->
-</p>
+<!-- </p> -->
 
 
 
