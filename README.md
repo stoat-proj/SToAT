@@ -9,11 +9,10 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 
 ## Table of Proposed Projects
 
-| Date     | Proposal                                                     | Github | Status  | languages | Contributors                                | Position |
-| -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- | -------- |
-| 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             | @CUHK    |
-| 06/24 | [Python Interface of MatchIt](./md/MatchIt_Py.md) |        | Started  |  Python    | [Wenyi WU](https://github.com/WenyiWU0111)| @CUHK    |
-|          |                                                              |       |                                    |           |                                             |          |
+| Date     | Proposal                                                     | Github | Status  | languages | Contributors                                 |
+| -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- | 
+| 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             |
+|          |                                                              |       |                                    |           |                                             |          
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
 
