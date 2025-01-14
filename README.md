@@ -1,17 +1,19 @@
-# SToAT: Open Statistical Toolkits <a href="https://github.com/statmlben/nonlinear-causal"><img src="./figs/logo.png" align="right" height="150" /></a>
+# CUHK-SToAT: Open Statistical Toolkits <a href="https://github.com/statmlben/nonlinear-causal"><img src="./figs/logo.png" align="right" height="150" /></a>
 
 The **stoat** project is a comprehensive initiative designed to enhance the development of essential, foundational, and practical statistical toolkits. Its overarching aim is to widen the scope of operability and practicality intrinsic to statistical concepts and methodologies. The principles of the Stoat project can be underscored as follows:
 
 - **Open**. stoat supports open-source, and all toolkits will be published in Github.
 - **Decentralization**. stoat does not claim credits for every project or toolkit. Rather, all credits associated with a particular project are duly accorded to the respective developers and contributors.
 - **Cooperation**. stoat involves active cooperation between developers/contributors and mentors. Most projects are initiated by mentors who propose preliminary ideas and aims. The project then is progressively proceeded through collaboration between contributors and mentors.
-- **Paid-position**. stoat offers paid short-term academic positions, such as research assistant (RA). In short, each contributor selected for a **stoat** project will get paid academic position to work on an Python/R package for 12 - 24 weeks.
+- **Paid-position**. stoat offers paid short-term academic positions offered by CUHK-STAT, such as student helper or research assistant (RA). In short, each contributor selected for a **stoat** project will get paid academic position to work on an Python/R package for 12 - 24 weeks.
 
 ## Table of Proposed Projects
 
 | Date     | Proposal                                                     | Github | Status  | languages | Contributors                                 |
 | -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- | 
-| 02/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             |
+| 01/25 | [Matrix Factorization Optimization with various Loss functions](./md/mfL.md) |        | Ongoing | Python    | Xiaochen Su                                             |
+| 01/25 | [Fast Path Solution for plqERM](./md/path_plqERM.md) |        | Ongoing | Python    |          Youtong Li                                   |
+| 11/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Ongoing | Python    |  Zilong Wang                                           |
 |          |                                                              |       |                                    |           |                                             |          
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
