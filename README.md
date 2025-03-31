@@ -11,9 +11,9 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 
 | Date     | Proposal                                                     | Github | Status  | languages | Contributors                                 |
 | -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- | 
+| 03/25 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             |
 | 01/25 | [Matrix Factorization Optimization with various Loss functions](./md/mfL.md) |        | Ongoing | Python    | Xiaochen Su                                             |
 | 01/25 | [Fast Path Solution for plqERM](./md/path_plqERM.md) |        | Ongoing | Python    |          Youtong Li                                   |
-| 11/24 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Ongoing | Python    |  Zilong Wang                                           |
 |          |                                                              |       |                                    |           |                                             |          
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
