@@ -49,6 +49,24 @@ To revise the aims with a focus on checking the code structure of `Lasso_path` i
 - Time Period: **6 Months**
 - Languages: Python and C++
 
+
+
+## Current Process
+
+The `plqERM_Ridge_path_sol` function effectively addresses several key aims outlined in the project:
+
+1.  **Integration with ReHLine**: The function utilizing99 the `plqERM_Ridge` solver to compute path solutions for piecewise linear quadratic problems. It supports various loss functions and constraints, demonstrating the versatility of the approach.
+
+2.  **Warm Start Techniques**: A significant feature of this function is the incorporation of warm start techniques. By initializing the optimization process with solutions from previous iterations, the function achieves substantial improvements in computational efficiency, particularly when exploring a range of regularization parameters.
+
+3.  **Benchmarking and Analysis**: The function provides comprehensive benchmarking outputs, including computation times, iteration counts, loss values, and L2 norms for each regularization parameter. This detailed information facilitates a thorough analysis of the model's performance and the impact of regularization.
+
+4.  **Coefficient Path Plotting**: The function includes a plotting capability that generates visualizations of the coefficient paths as a function of `C`. This allows for a visual analysis of how individual feature coefficients are affected by changes in the regularization strength.
+
+5.  **Implementation and Testing**: The implementation has been validated through testing on simulated datasets and datasets `madelon`, confirming the effectiveness of the warm start techniques and the overall functionality of the function. These tests demonstrate that the warm start approach leads to improved performance compared to cold starts.
+
+
+
 ## References
 
 [^rehline]: Dai, B., & Qiu, Y. (2024).  ReHLine: Regularized Composite ReLU-ReHU Loss Minimization with Linear  Computation and Linear Convergence. *Advances in Neural Information Processing Systems*, *36*.
