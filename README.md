@@ -10,14 +10,13 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 ## Table of Proposed Projects
 
 | Date     | Proposal                                                     | Github | Status  | languages | Contributors                                 |
-| -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- | 
+| -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- |
 | 03/25 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             |
 | 01/25 | [Matrix Factorization Optimization with various Loss functions](./md/mfL.md) |        | Ongoing | Python    | Xiaochen Su                                             |
-| 01/25 | [Fast Path Solution for plqERM](./md/path_plqERM.md) |        | Ongoing | Python    |          Youtong Li                                   |
-|          |                                                              |       |                                    |           |                                             |          
+| 07/25 | [Fast Path Solution for CQR](./md/path_CQR.md) |        | Ongoing | Python    |  [Youtong LI](https://github.com/Leona-LYT) |
+|          |                                                              |       |                                    |           |                                             |
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
-
 
 **We Support Your Proposal.** If you have clear objectives and strategies for a statistical toolkit, you are invited to upload your project proposal (see [Proposal template](https://github.com/stoat-proj/SToAT/wiki/Proposal-template)) in the [discussion](https://github.com/stoat-proj/SToAT/discussions/new?category=project-proposal) section under project proposal category. PIs will assess its feasibility and provide support accordingly.
 
@@ -26,8 +25,8 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 | Date     | Proposal                                                     | Outcome | languages | Contributors                                |
 | -------- | ------------------------------------------------------------ | ------- | --------- | ------------------------------------------- |
 | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [Github](https://github.com/keepwith/PLQComposite) | Python | [Tingxian Gao](https://github.com/keepwith) |
-| 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) (pre) |   [Github](https://github.com/softmin/ReHLine-PO)   |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       | @CUHK    |
-|          |                                                              |        |         |                                    |           |                                             |          |
+| 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) (pre) |   [Github](https://github.com/softmin/ReHLine-PO)   |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       |
+| 07/25 | [Fast Path Solution for plqERM](./md/path_plqERM.md) | [Github](https://github.com/softmin/ReHLine-python/tree/main/rehline) | Python | [Youtong LI](https://github.com/Leona-LYT) |
 
 ## How to Participate
 
@@ -50,7 +49,6 @@ Student who wants to participate in SToAT project should:
   <!-- <a href="https://www.sta.cuhk.edu.hk/"><img src="./figs/cuhk.png" align="left" height="120" /></a> -->
   <!-- <a href="https://www.cityu.edu.hk/"><img src="./figs/cityu.png" align="left" height="120" /></a> -->
 <!-- </p> -->
-
 
 
 
