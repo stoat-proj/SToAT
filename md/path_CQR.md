@@ -9,7 +9,7 @@ Ridge Composite Quantile Regression (CQR) is a robust statistical method that ex
 The regularized composite quantile regression solves the following optimization problem:
 
 $$
-\min_{\beta \in \mathbb{R}^{d}, \{\alpha_k\}_{k=1}^K} \sum_{k=1}^K \sum_{i=1}^n \rho_{\tau_k} ( y_i - x^\intercal_i \beta - \alpha_k ) + \frac{1}{2C} \| \beta \|^2,
+min_{\beta \in \mathbb{R}^{d}, \alpha \in \mathbb{R}^{K}} \ C  \sum_{k=1}^K \sum_{i=1}^n \rho_\kappa ( y_i - x^\intercal_i \beta - \alpha_k) + \frac{1}{2} (\| \beta \|^2 + \| \alpha \|^2),
 $$
 
 where:
