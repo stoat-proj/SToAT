@@ -14,15 +14,14 @@ This project provides a general-purpose estimator framework for empirical risk m
 
 4. Automatic conversion of user-defined `loss` and `constraint` dictionaries into ReHLine parameter matrices (U, V, Tau, S, T, A, b)
 
-5. Compatibility with `GridSearchCV` for automated hyperparameter tuning, including nested dictionaries as search space
+5. Compatibility with `GridSearchCV`, `pipeline`, `cross_val_score` for automated hyperparameter tuning, cross validation, and pipeline including nested dictionaries as search space
 
 6. Built-in methods for decision function computation, prediction, and task-aware scoring (accuracy for classification, R² for regression)
 
 7. Support for optional sample weighting, warm-start initialization, verbose tracing, and trace logging
 
    
-
 - Contributors: Youtong Li
 - Mentors: [Ben Dai](https://www.bendai.org/)
-- Time Period: **6 Months**
+- Time Period: **3 Months**
 - Languages: Python 
