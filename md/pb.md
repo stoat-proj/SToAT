@@ -165,10 +165,10 @@ This project aims to implement a production-ready Poisson Binomial distribution 
 
 ## References
 
-[^hong2013]: Hong, Y. (2013). On computing the distribution function for the Poisson binomial distribution. *Computational Statistics & Data Analysis*.
+- Hong, Y. (2013). On computing the distribution function for the Poisson binomial distribution. *Computational Statistics & Data Analysis*.
 
-[^chen1997]: Chen, S. X., & Liu, J. S. (1997). Statistical applications of the Poisson-binomial and conditional Bernoulli distributions.
+- Chen, S. X., & Liu, J. S. (1997). Statistical applications of the Poisson-binomial and conditional Bernoulli distributions.
 
-[^fernandez2010]: Fernández, M., & Williams, S. (2010). Closed-form expression for the Poisson-binomial probability density function. *IEEE Transactions on Aerospace and Electronic Systems*.
+- Fernández, M., & Williams, S. (2010). Closed-form expression for the Poisson-binomial probability density function. *IEEE Transactions on Aerospace and Electronic Systems*.
 
-[^volkova2023]: Volkova, K. (2005). A refinement of the normal approximation for the Poisson binomial distribution. *International Journal of Mathematics and Mathematical Sciences*.
+- Volkova, K. (2005). A refinement of the normal approximation for the Poisson binomial distribution. *International Journal of Mathematics and Mathematical Sciences*.
