@@ -11,9 +11,9 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 
 | Date     | Proposal                                                     | Github | Status  | languages | Contributors                                 |
 | -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- |
-| 03/25 | [Empirical evaluation of Dice/IoU in Segmentation](./md/dice.md) |        | Hiring | Python    |                                             |
+| 10/25 | [Poisson Binomial Distribution for PyTorch](./md/pb.md) |        | Hiring | Python    |
+| 08/25 | [Scikit-learn Compatible plqERM Estimator](./md/plqERM_Estimator.md) |       | Ongoing | Python | [Youtong LI](https://github.com/Leona-LYT) |                                             |
 | 01/25 | [Matrix Factorization Optimization with various Loss functions](./md/mfL.md) |        | Ongoing | Python    | Xiaochen Su                                             |
-| 08/25 | [Scikit-learn Compatible plqERM Estimator](./md/plqERM_Estimator.md) |       | Ongoing | Python | [Youtong LI](https://github.com/Leona-LYT) |
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
 
