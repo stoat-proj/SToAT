@@ -39,11 +39,9 @@ where
 - $\phi(\cdot , \cdot)$ 
   is a convex piecewise linear-quadratic loss function
   
-- $\mathbf{A}_{\text{user}}$ is a $d \times (k+1)$ matrix and $\mathbf{b}_{\text{user}}$ is a $d$-dimensional vector 
-  representing $d$ linear constraints to user side parameters.
+- **A**<sub>user</sub> is a *d* × (*k*+1) matrix and **b**<sub>user</sub> is a *d*-dimensional vector representing *d* linear constraints to user-side parameters.
 
-- $\mathbf{A}_{\text{item}}$ is a $d \times (k+1)$ matrix and $\mathbf{b}_{\text{item}}$ is a $d$-dimensional vector 
-  representing $d$ linear constraints to item side parameters.
+- **A**<sub>item</sub> is a *d* × (*k*+1) matrix and **b**<sub>item</sub> is a *d*-dimensional vector representing *d* linear constraints to item-side parameters.
   
 - $\Omega$
   is a user-item collection that records all training data
@@ -55,10 +53,10 @@ where
 - $C$ is regularization parameter, $\rho$ balances regularization strength between user and item
 
 - $\mathbf{p}_u$ and $\alpha_u$
-  are latent vector and individual bias of u-th row. Specifically, $\mathbf{p}_u$ is the u-th row of $\mathbf{P}$, and $\alpha_u$ is the u-th element of $\pmb{\alpha}$
+  are latent vector and individual bias of u-th row. Specifically, $\mathbf{p}_u$ is the u-th row of $\mathbf{P}$, and $\alpha_u$ is the u-th element of 𝝰
   
 - $\mathbf{q}_i$ and $\beta_i$
-  are latent vector and individual bias of i-th column. Specifically, $\mathbf{q}_i$ is the i-th row of $\mathbf{Q}$, and $\beta_i$ is the i-th element of $\pmb{\beta}$
+  are latent vector and individual bias of i-th column. Specifically, $\mathbf{q}_i$ is the i-th row of $\mathbf{Q}$, and $\beta_i$ is the i-th element of 𝝱
 
 ## Motivation
 
