@@ -13,7 +13,6 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 | -------- | ------------------------------------------------------------ | ------ | ------- | --------- | ------------------------------------------- |
 | 10/25 | [Poisson Binomial Distribution for PyTorch](./md/pb.md) |        | Hiring | Python    |
 | 08/25 | [Scikit-learn Compatible plqERM Estimator](./md/plqERM_Estimator.md) |       | Ongoing | Python | [Youtong LI](https://github.com/Leona-LYT) |                                             |
-| 01/25 | [Matrix Factorization Optimization with various Loss functions](./md/mfL.md) |        | Ongoing | Python    | Xiaochen Su                                             |
 
 <!-- | 12/23 | [PLQ Composite Decomposition](./md/plq.md)                   |   [PLQComposite](https://github.com/keepwith/PLQComposite)     | Done | [Ben Dai](https://www.bendai.org/), [Yixuan Qiu](https://statr.me/about/) | Python | [Tingxian Gao](https://github.com/keepwith) | @CUHK    | -->
 
@@ -27,6 +26,7 @@ The **stoat** project is a comprehensive initiative designed to enhance the deve
 | 03/24 | [Portfolio Optimization via ReHLine](./md/PO_ReHLine.md) (pre) |   [Github](https://github.com/softmin/ReHLine-PO)   |  Python    |  [Alibek Orazalin](https://github.com/aorazalin)                       |
 | 01/25 | [Fast Path Solution for plqERM](./md/path_plqERM.md) | [Github](https://github.com/softmin/ReHLine-python/tree/main/rehline) | Python | [Youtong LI](https://github.com/Leona-LYT) |
 | 07/25 | [Fast Path Solution for CQR](./md/path_CQR.md) | [Github](https://github.com/softmin/ReHLine-python/tree/main/rehline) | Python | [Youtong LI](https://github.com/Leona-LYT) |
+| 01/25 | [Matrix Factorization Optimization with various Loss functions](./md/mfL.md) | [Github](https://github.com/softmin/ReHLine-python/blob/main/rehline/_mf_class.py) | Python | [Xiaochen Su](https://github.com/DataboyUsen) |
 
 ## How to Participate
 
@@ -49,10 +49,3 @@ Student who wants to participate in SToAT project should:
   <!-- <a href="https://www.sta.cuhk.edu.hk/"><img src="./figs/cuhk.png" align="left" height="120" /></a> -->
   <!-- <a href="https://www.cityu.edu.hk/"><img src="./figs/cityu.png" align="left" height="120" /></a> -->
 <!-- </p> -->
-
-
-
-
-
-
-
