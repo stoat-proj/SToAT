@@ -6,42 +6,59 @@ Matrix factorization is a fundamental technique in machine learning and data ana
 
 ## Math Formulation
 
-**Parameters:**
-
-- $n$ as the number of rows in the matrix.
-- $m$ as the number of columns in the matrix.
-- $r$ as the rank of the factorization.
-- $\Omega$ as the index set for observed entries.
-- $y_{ij}$ as the observed value at position $(i, j)$.
-
-**Variables:**
-
-- $\mathbf{P} \in \mathbb{R}^{n \times r}$ and $\mathbf{Q} \in \mathbb{R}^{m \times r}$ as the factor matrices.
-- $\mathbf{a} \in \mathbb{R}^n$ and $\mathbf{b} \in \mathbb{R}^m$ as the bias vectors.
-- $\mu \in \mathbb{R}$ as the global bias term. 
-
-Furthermore, the prediction for $(i,j)$ entry is formulated as:
-
-$$
-\hat{y}_{ij} = \mathbf{p}_i^\intercal \mathbf{q}_j + \mathbf{a}_i + \mathbf{b}_j + \mu,
-$$
-
 **Objective Function:**
 
 The objective function for matrix factorization can be formulated as:
 
 $$
-\min_{\mathbf{P}, \mathbf{Q}, \mathbf{a}, \mathbf{b}, \mu} \sum_{(i,j) \in \Omega} \phi(y_{ij}, \mathbf{p}_i^\intercal \mathbf{q}_j + \mathbf{a}_i + \mathbf{b}_j + \mu),
+\min_{\substack{
+    \mathbf{P} \in \mathbb{R}^{n \times k}\ 
+    \pmb{\alpha} \in \mathbb{R}^n \\
+    \mathbf{Q} \in \mathbb{R}^{m \times k}\ 
+    \pmb{\beta} \in \mathbb{R}^m
+}} 
+\left[
+    \sum_{(u,i)\in \Omega} C \cdot \text{PLQ}(r_{ui}, \ \mathbf{p}_u^T \mathbf{q}_i + \alpha_u + \beta_i) 
+\right]  
++ 
+\left[ 
+    \frac{\rho}{n}\sum_{u=1}^n(\|\mathbf{p}_u\|_2^2 + \alpha_u^2) 
+    + \frac{1-\rho}{m}\sum_{i=1}^m(\|\mathbf{q}_i\|_2^2 + \beta_i^2) 
+\right]
 $$
 
-where $\phi$ is a loss function that measures the difference between the original matrix $\mathbf{Y}$ and the predicted outcome. Common choices for $\phi$ include:
+$$
+\ \text{ s.t. } \quad \  \ 
+\mathbf{A}_{\text{user}} \begin{pmatrix} \alpha_u \\ \mathbf{p}_u \end{pmatrix} + \mathbf{b}_{\text{user}} \geq \mathbf{0},\ u = 1,\dots,n
+\quad \text{and} \quad
+\mathbf{A}_{\text{item}} \begin{pmatrix} \beta_i \\ \mathbf{q}_i \end{pmatrix} + \mathbf{b}_{\text{item}} \geq \mathbf{0},\ i = 1,\dots,m
+$$
 
-- Regression loss: $y \in \mathbb{R}$:
-  - **Squared Loss**: $\phi(y, \widehat{y}) = (y - \widehat{y})^2$,
-  - **Absolute Loss**: $\phi(y, \widehat{y}) = |y - \widehat{y}|$,
+where
 
-- Classification loss: $y \in \{-1, 1\}$:
-  - **Hinge Loss**: $\phi(y, \widehat{y}) = \max(0, 1 - y \widehat{y})$.
+- $\phi(\cdot , \cdot)$ 
+  is a convex piecewise linear-quadratic loss function
+  
+- $\mathbf{A}_{\text{user}}$ is a $d \times (k+1)$ matrix and $\mathbf{b}_{\text{user}}$ is a $d$-dimensional vector 
+  representing $d$ linear constraints to user side parameters.
+
+- $\mathbf{A}_{\text{item}}$ is a $d \times (k+1)$ matrix and $\mathbf{b}_{\text{item}}$ is a $d$-dimensional vector 
+  representing $d$ linear constraints to item side parameters.
+  
+- $\Omega$
+  is a user-item collection that records all training data
+
+- $n$ is number of rows in target matrix, $m$ is number of columns in target matrix
+
+- $k$ is length of latent factors (rank of MF) 
+
+- $C$ is regularization parameter, $\rho$ balances regularization strength between user and item
+
+- $\mathbf{p}_u$ and $\alpha_u$
+  are latent vector and individual bias of u-th row. Specifically, $\mathbf{p}_u$ is the u-th row of $\mathbf{P}$, and $\alpha_u$ is the u-th element of $\pmb{\alpha}$
+  
+- $\mathbf{q}_i$ and $\beta_i$
+  are latent vector and individual bias of i-th column. Specifically, $\mathbf{q}_i$ is the i-th row of $\mathbf{Q}$, and $\beta_i$ is the i-th element of $\pmb{\beta}$
 
 ## Motivation
 
