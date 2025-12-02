@@ -18,7 +18,7 @@ $$
     \pmb{\beta} \in \mathbb{R}^m
 }} 
 \left[
-    \sum_{(u,i)\in \Omega} C \cdot \text{PLQ}(r_{ui}, \ \mathbf{p}_u^T \mathbf{q}_i + \alpha_u + \beta_i) 
+    \sum_{(u,i)\in \Omega} C \cdot \phi(r_{ui}, \ \mathbf{p}_u^T \mathbf{q}_i + \alpha_u + \beta_i) 
 \right]  
 + 
 \left[ 
